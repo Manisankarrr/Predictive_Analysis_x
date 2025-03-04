@@ -13,6 +13,7 @@
     "axios": "^1.7.2",
     "leaflet": "^1.9.4",
     "pdf-lib": "^1.17.1",
+    "predictix-frontend": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^5.2.1",
