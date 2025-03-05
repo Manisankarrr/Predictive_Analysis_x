@@ -1,6 +1,6 @@
-# PredictiX - Multi-Disease Prediction System
+# Predictive Analysis System - Multi-Disease Prediction System
 
-PredictiX is a comprehensive multi-disease prediction platform designed to predict heart disease, diabetes, breast cancer, and lung cancer. Built using the MERN stack and integrated with machine learning models, PredictiX offers an intuitive interface for users to input data and receive accurate health predictions, enhancing the diagnostic experience.
+Predictive Analysis System is a comprehensive multi-disease prediction platform designed to predict heart disease, diabetes, breast cancer, and lung cancer. Built using the MERN stack and integrated with machine learning models, PredictiX offers an intuitive interface for users to input data and receive accurate health predictions, enhancing the diagnostic experience.
 
 ## Table of Contents
 - [Features](#features)
@@ -67,9 +67,6 @@ PredictiX is a comprehensive multi-disease prediction platform designed to predi
 5. Submit the form and view the prediction result.
 6. Download the custom PDF report for future reference.
 
-## Frontend Design
-
-The frontend design has been created using [Figma](https://www.figma.com/design/psQyNMetXUsjCcvmvvjqIg/PredictiX---Final-Year-Project?node-id=0-1&t=KuA0zys1uwoHgMxW-1). It outlines the structure and user flow of the application, ensuring a seamless user experience.
 
 ## File Structure
 
@@ -109,19 +106,7 @@ PredictiX/
 
 ```
 
-## Screenshots
 
-### Homepage
-![Homepage](https://raw.githubusercontent.com/hallowshaw/PredictiX/main/Screenshots/SS1.png)
-
-### Sign Up Page
-![Sign Up](https://raw.githubusercontent.com/hallowshaw/PredictiX/main/Screenshots/SS2.png)
-
-### Predictors Page
-![Predictors](https://raw.githubusercontent.com/hallowshaw/PredictiX/main/Screenshots/SS3.png)
-
-### About Page
-![About](https://raw.githubusercontent.com/hallowshaw/PredictiX/main/Screenshots/SS4.png)
 
 
 ## Future Enhancements
@@ -131,7 +116,3 @@ PredictiX/
 - **Additional Predictors:** Add more disease predictors to extend the functionality.
 - **Enhanced Image Processing:** Use more advanced techniques for image analysis, improving accuracy for cancer detection.
 - **Integration with Wearables:** Sync health data from wearables for real-time predictions.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
